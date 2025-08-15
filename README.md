@@ -1,6 +1,6 @@
-# Project Management System
+# Project Management System Laravel + React
 
-A simple **Project Management System** built with Laravel, allowing you to manage projects, create tasks, and assign them to team members.
+A simple **Project Management System** built with Laravel + React, allowing you to manage projects, create tasks, and assign them to team members.
 
 ## Features
 
